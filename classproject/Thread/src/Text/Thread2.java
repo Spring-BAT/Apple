@@ -1,5 +1,9 @@
 package Text;
-
+/**
+ * Learn Java Thread
+ * Date: 12/5 14:50
+ * @author WMJ
+ */
 public class Thread2 extends Thread {
     public void run(){
         for(int i = 0; i < 10; i++){
